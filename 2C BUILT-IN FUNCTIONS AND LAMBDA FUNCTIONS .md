@@ -1,5 +1,5 @@
 # Exp.No:2c
-## BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS - RELATING TWO NUMBERS
+## BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS- RELATED TO THE GIVEN EXPRESSION
 ### AIM  
 To write a Python program to calculate the value of the following expression by using lambda function.
 The expression is - (x + 10) + (y + 2) + z
